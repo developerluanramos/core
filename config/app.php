@@ -180,6 +180,7 @@ return [
         Biigle\Modules\Maia\MaiaServiceProvider::class,
         Biigle\Modules\UserStorage\UserStorageServiceProvider::class,
         Biigle\Modules\Newsletter\NewsletterServiceProvider::class,
+        Biigle\Modules\Ptp\PtpServiceProvider::class,
 
     ])->toArray(),
 

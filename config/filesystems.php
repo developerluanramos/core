@@ -136,6 +136,11 @@ return [
             'driver' => 'local',
             'root' => storage_path('user-storage'),
         ],
+        'ptp' => [
+            'driver' => 'local',
+            'root' => storage_path('ptp'),
+        ],
+
 
         'magic-sam' => [
             'driver' => 'local',
